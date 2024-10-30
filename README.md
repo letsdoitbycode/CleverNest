@@ -57,10 +57,9 @@ The platform aims to provide a personalized learning experience for students, of
 
 ### Backend Functionalities
 
-- **Authentication & Authorization**: Manages secure login, registration, and session handling using JWT or OAuth.
+- **Authentication & Authorization**: Manages secure login, registration, and session handling.
 - **Course Management**: Handles creation, enrollment, and retrieval of course content from the database.
 - **Session Management**: Manages scheduling and execution of live tutoring sessions.
-- **Real-time Communication**: Facilitates live communication between tutors and students using WebSocket or similar technologies.
 
 ### APIs
 
@@ -69,10 +68,8 @@ The platform includes various APIs for handling user data, course management, an
 ### Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript, React.js (optional)
-- **Backend**: Node.js (Express), or Python (Django/Flask)
-- **Database**: MongoDB, MySQL, or PostgreSQL
-- **Real-time Communication**: WebSocket
-- **Authentication**: JWT or OAuth
+- **Backend**: PHP
+- **Database**: MySQL
 
 ### Future Enhancements
 
